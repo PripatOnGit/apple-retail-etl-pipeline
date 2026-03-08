@@ -447,12 +447,8 @@ This project is my answer. I built the full pipeline from scratch — extraction
 
 ## 👤 Author
 
-**[Your Name]**
+**Priyanka Patil**
 Data Engineer | Career Returner
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/patilpriyu26/) | [GitHub](https://github.com/PripatOnGit)
 
 ---
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
