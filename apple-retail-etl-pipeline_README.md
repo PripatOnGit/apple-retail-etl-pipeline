@@ -435,15 +435,6 @@ This project is my answer. I built the full pipeline from scratch — extraction
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] Add Great Expectations for advanced data profiling
-- [ ] Build Streamlit dashboard on mart layer
-- [ ] Add CDC (Change Data Capture) for real-time ingestion
-- [ ] Migrate transforms to PySpark for large-scale processing
-- [ ] Rebuild as ELT using dbt (see sister repo: [apple-retail-elt-pipeline](https://github.com/yourusername/apple-retail-elt-pipeline))
-
----
 
 ## 👤 Author
 
